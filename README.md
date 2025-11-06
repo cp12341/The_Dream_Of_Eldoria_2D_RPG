@@ -57,21 +57,6 @@ A rich, immersive soundscape complements every scene:
 Eryn’s dreams foretell the return of the **Shadow Lord**, whose power once nearly consumed Eldoria.  
 Guided by ancient prophecies and cryptic visions, Eryn must traverse villages, caves, and castles, defeat corrupted guardians, and reclaim the **Crystal of Awakening** — the only key to stopping darkness from spreading again.
 
-<img width="940" height="532" alt="image" src="https://github.com/user-attachments/assets/ba74d3c2-e6d8-4413-9f70-f6f48e0e2436" />
-Opening Cutscene
-
-
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/089043e3-29ad-422f-b47b-5235511de99b" />
-Level 1 scene
-
-
-<img width="940" height="528" alt="image" src="https://github.com/user-attachments/assets/f2934505-8b3a-40e9-bc67-54060670ceef" />
-Level 2 scene
-
-
-
-
-
 ---
 
 ## ⚖️ Difficulty & Level Design
