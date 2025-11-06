@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2454ab4a146ca0247803492b4bfc1cc1, type: 3}
+  m_Name: Small Key
+  m_EditorClassIdentifier: 
+  itemSprite: {fileID: 345343839, guid: 534a5f31b0eb30444a1aafe03e167ec9, type: 3}
+  itemDescription: A key! This must unlock something important... I should keep going.
+  isKey: 1

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39cf64c48d98f724fbf0e129bf5bc518, type: 3}
+  m_Name: Soldier Sword
+  m_EditorClassIdentifier: 
+  itemName: Blade of the Fallen
+  itemDescription: An old but sturdy sword passed down by your father, carrying the
+    legacy of battles long past.
+  itemImage: {fileID: 21300000, guid: 23f81e4f154e1a249a30e52000e5a580, type: 3}
+  numberHeld: 1
+  usable: 0
+  unique: 1
+  thisEvent:
+    m_PersistentCalls:
+      m_Calls: []
