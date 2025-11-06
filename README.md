@@ -1,6 +1,7 @@
 # 🎮 The Dream of Eldoria
 
 **A 2D Action-Adventure RPG built with Unity**
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/8d192684-84ca-4fb2-a7ce-a2005cd7cbd4" />
 
 ---
 
