@@ -1,6 +1,7 @@
 # 🎮 The Dream of Eldoria
 
 **A 2D Action-Adventure RPG built with Unity**
+
 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/8d192684-84ca-4fb2-a7ce-a2005cd7cbd4" />
 
 ---
@@ -11,9 +12,9 @@
 Players take on the role of **Eryn**, a young adventurer guided by dreams that hint at an ancient evil threatening Eldoria.  
 Through forests, villages, and shadowy dungeons, players uncover secrets, battle fierce enemies, and wield the **Bow of Aether** to restore balance to the realm.
 
-> 🕹️ [Download Build Here](<your_build_app_link>)  
-> 🎥 [Gameplay Video – Level 1](<your_level1_video_link>)  
-> 🎥 [Gameplay Video – Level 2](<your_level2_video_link>)
+> 🕹️ [Download Build Here](https://drive.google.com/file/d/1o2DdaIoHy0nCNnA5aksqWte3DjpcJkaG/view?usp=drive_link)  
+> 🎥 [Gameplay Video – Level 1](https://drive.google.com/file/d/1K8vlNOdYuHKxUHPlNk5Obi60i3Hvzt72/view?usp=drive_link)  
+> 🎥 [Gameplay Video – Level 2](https://drive.google.com/file/d/1XvmvcmQBU3tDQcPzGy4pv-anJMLq9rLa/view?usp=drive_link)
 
 ---
 
